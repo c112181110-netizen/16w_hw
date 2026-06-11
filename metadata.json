@@ -1,0 +1,6 @@
+{
+  "name": "隨心點",
+  "description": "一個精緻、流暢且簡單易用的點餐與購物車應用，支援詳細餐點分類、客製化備註、即時購物車計算與歷史訂單管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
